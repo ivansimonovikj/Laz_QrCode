@@ -1,0 +1,1 @@
+https://lazqrcode.netlify.app/
